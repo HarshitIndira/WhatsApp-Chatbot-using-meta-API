@@ -1,0 +1,33 @@
+{
+    "questions": [
+        "hello",
+        "hi",
+        "hey",
+        "greetings",
+        "good morning",
+        "good afternoon",
+        "good evening",
+        "hi there",
+        "hey there",
+        "howdy",
+        "what’s up?",
+        "yo",
+        "hiya",
+        "hello there"
+    ],
+    "answers": [
+        "Hello! What can I do for you?",
+        "Hey! How's it going?",
+        "Greetings! How may I assist you?",
+        "Good morning! How can I assist you ?",
+        "Good afternoon! What can I do for you?",
+        "Good evening! How can I help you?",
+        "Hello! How can I assist you?",
+        "Hi! What can I do for you?",
+        "Howdy! How can I help you?",
+        "Not much, what’s up with you?",
+        "Yo! How can I assist you today?",
+        "Hiya! What can I do for you?",
+        "Hello! How may I help you?"
+    ]
+}

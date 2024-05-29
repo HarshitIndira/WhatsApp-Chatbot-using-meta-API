@@ -1,0 +1,32 @@
+{
+    "questions": [
+        "goodbye",
+        "bye",
+        "see you later",
+        "take care",
+        "farewell",
+        "have a good day",
+        "have a nice day",
+        "talk to you later",
+        "catch you later",
+        "later",
+        "see you",
+        "peace out",
+        "adios"
+    ],
+    "answers": [
+        "Goodbye! Have a great day!",
+        "Bye! Take care!",
+        "See you later! Stay safe!",
+        "Take care! See you soon!",
+        "Farewell! Until next time!",
+        "Have a good day! Talk to you later!",
+        "Have a nice day! Goodbye!",
+        "Talk to you later! Bye!",
+        "Catch you later! Take care!",
+        "Later! Have a good one!",
+        "See you! Take care!",
+        "Peace out! See you next time!",
+        "Adios! Stay safe!"
+    ]
+}
